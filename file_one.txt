@@ -1,4 +1,4 @@
-first line in file_one.txt
+first line
 1.5
 second line :D
 third line :)
@@ -6,4 +6,4 @@ third line :)
 fourth line :$
 fifth
 5.5
-six
+six or sixth
