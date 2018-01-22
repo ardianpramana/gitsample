@@ -1,5 +1,6 @@
 first line in file_one.txt
 second line :D
+1.5
 third line :)
 fourth line :$
 fifth
